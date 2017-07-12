@@ -8,5 +8,6 @@
     <RootNamespace>Ploeh.TestTypeFoundation</RootNamespace>
 
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 </Project>
