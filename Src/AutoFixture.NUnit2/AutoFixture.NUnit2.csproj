@@ -7,6 +7,8 @@
     <AssemblyName>Ploeh.AutoFixture.NUnit2</AssemblyName>
     <RootNamespace>Ploeh.AutoFixture.NUnit2</RootNamespace>
     <Copyright>Copyright © Ploeh 2011</Copyright>
+
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
